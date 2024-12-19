@@ -1,4 +1,3 @@
-# tushxr
 # 👋 Hello, World! I'm Tushar Banjan  
 
 🎓 **Aspiring Developer** | 💻 **IT Graduate** | 🌐 **Web Enthusiast**  
