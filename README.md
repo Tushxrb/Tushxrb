@@ -1,4 +1,4 @@
-# 👋 Hello, World! I'm Tushar Banjan  
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" alt="Animated Emoji" width="50" height="50"> Hello, World! I'm Tushar Banjan  
 
 🎓 **Aspiring Developer** | 💻 **IT Graduate** | 🌐 **Web Enthusiast**  
 
