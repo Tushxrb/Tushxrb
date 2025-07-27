@@ -2,24 +2,24 @@
 
 🎓 **Aspiring Developer** | 💻 **IT Graduate** | 🌐 **Web Enthusiast**  
 
-Hi there! I'm Tushar, a tech enthusiast passionate about creating meaningful and user-friendly web experiences. Currently, I'm diving deep into the world of programming and sharpening my skills in both front-end and back-end development.  
+Hi there! I'm Tushar, a passionate tech enthusiast dedicated to building user-friendly and meaningful web experiences. I'm currently focused on enhancing my skills in full-stack development and exploring modern web technologies.
 
 ## 🛠️ Tech Stack  
 - 🌐 **Web Development:** HTML, CSS, JavaScript  
-- 🖥️ **Programming:** Python, C, C++  
-- 🛢️ **Database:** Basic SQL knowledge  
-- 🚀 **Learning:** React.js, Node.js  
+- 🖥️ **Programming Languages:** Python, C, C++  
+- 🛢️ **Database:** Basic SQL  
+- 🚀 **Currently Learning:** React.js, Node.js  
 
-## 📈 My Goals  
-- 💡 Build innovative and impactful projects  
-- 📚 Continuously learn new tools and technologies  
-- 🤝 Collaborate on exciting open-source projects  
+## 📈 Goals  
+- 💡 Build innovative, real-world projects  
+- 📚 Continuously learn and master new technologies  
+- 🤝 Collaborate on open-source and team projects  
 
-## 📫 Let's Connect!  
+## 📫 Connect with Me  
 - ✉️ **Email:** tusharbanjan@gmail.com  
-- 🌐 **Portfolio (Coming Soon!):** [Tushar's Portfolio](#)  
+- 🌐 **Portfolio:** *Coming Soon*  
 
-👨‍💻 *"Code, learn, and repeat – one line at a time!"*  
+👨‍💻 *"Code, learn, and repeat – one line at a time."*  
 
----
-⭐️ Fun Fact: I love blending technology and creativity to solve real-world problems!  
+---  
+⭐️ *Fun Fact:* I enjoy combining creativity and logic to build digital solutions that make a difference.
